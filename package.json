@@ -1,0 +1,12 @@
+{
+  "name": "node-insim-app",
+  "version": "1.0.0",
+  "description": "Node InSim Demo Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-insim": "^4.0.0"
+  }
+}
