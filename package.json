@@ -7,6 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "node-insim": "^5.0.0"
+    "node-insim": "^5.0.1"
   }
 }
